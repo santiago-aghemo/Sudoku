@@ -1,0 +1,1 @@
+Es un codigo basico que hice para practicar el backtracking. Contiene dos funciones: la funcion solve, y la funcion valido. El codigo empieza a resolver el sudoku cuando se llama a solve con los paramentros (0,0). 
